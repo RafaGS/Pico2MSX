@@ -6,4 +6,6 @@ Descripción en:
 - MSX2: [https://minibots.wordpress.com/2025/11/01/emulador-de-msx2-con-olimex-rp2350pc/]
 - MSX2+: [https://minibots.wordpress.com/2025/11/05/emulador-de-msx2-con-olimex-rp2350pc-2/]
 
-Note: I am working on polishing and commenting the code. It will be available in a couple of weeks.
+Note: I am working on polishing and commenting the code.
+
+Más sobre retroinformática aquí: [https://minibots.wordpress.com/retroinformatica/]
